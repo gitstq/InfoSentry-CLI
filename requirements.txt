@@ -1,0 +1,3 @@
+# InfoSentry-CLI
+# Zero-dependency Python package - no external requirements needed
+# Requires Python 3.8+
